@@ -1,2 +1,2 @@
 # calculator-using-android-studio
-simple calculator
+Android App Development by building a complete Calculator App using Android Studio and Java
